@@ -1,0 +1,2 @@
+# faqtory
+faqtory example
